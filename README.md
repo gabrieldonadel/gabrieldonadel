@@ -1,6 +1,8 @@
 # > Hello world 👨🏻‍💻
+ 
+My name is Gabriel Donadel Dall'Agnol and I'm a Brazilian Engineer passionate about tinkering and making my ideas become reality. Throughout my career I've worked with multiple technologies using industry standards patterns and architectures, helping lead medium-sized teams. I'm also an active member of the community and often contribute to open-source projects. You can either find me on my [website][1] or on [![LinkedIn][2.1]][2].
 
-My name is Gabriel Donadel Dall'Agnol and I'm a brazilian software engineer that loves creating stuff and implementing new ideias. You can either find me on my [website][1] or on [![LinkedIn][2.1]][2].
+
 
 <!-- Icons -->
 
