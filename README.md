@@ -1,4 +1,4 @@
-# > Hello world 👨🏻‍💻
+# > Hi, I'm Gabriel Donadel 👋
 
 <!-- Shields -->
 
@@ -6,9 +6,9 @@
 [![Twitter: donadeldev](https://img.shields.io/twitter/follow/donadeldev?style=social)][4]
 [![Linkedin: gabrieldonadeldallagnol](https://img.shields.io/badge/-gabrieldonadeldallagnol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldonadeldallagnol/)][2]
 
-Hi, I'm Gabriel Donadel Dall'Agnol, a passionate Engineer from Brazil who loves tinkering and bringing ideas to life. Throughout my career, I've worked with multiple technologies using industry-standard patterns and architectures, helping lead medium-sized teams. 
-
-My focus is on contributing to the React Native open-source ecosystem and making it truly universal. I believe in the power of "Write Once, Run Everywhere" and I am committed to making this philosophy a reality. Through work and dedication, we can create seamless experiences for users across different platforms and devices. I am driven by my love for creating innovative solutions and I am constantly exploring new possibilities. 
+I'm a Software Engineer from Brazil 🇧🇷 working at @expo, where I'm focused on contributing to the React Native open-source ecosystem and helping make cross-platform development truly universal. Throughout my career, I've worked with multiple technologies using industry-standard patterns and architectures, helping lead medium-sized teams. 
+ 
+I believe in the power of "Write Once, Run Everywhere," and I am committed to making this philosophy a practical reality for developers. I'm driven by a love for tinkering, bringing ideas to life, and creating innovative solutions that result in seamless experiences for users across all platforms and devices. Through dedication and open collaboration, we can continue to push the boundaries of what's possible with React Native.
 
 If you'd like to learn more about me and my work, you can visit my [website][1] or find me on [![LinkedIn][2.1]][2]. Let's work together to push the boundaries of what's possible with React Native! 
 
