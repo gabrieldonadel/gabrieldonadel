@@ -6,11 +6,19 @@
 [![Twitter: donadeldev](https://img.shields.io/twitter/follow/donadeldev?style=social)][4]
 [![Linkedin: gabrieldonadeldallagnol](https://img.shields.io/badge/-gabrieldonadeldallagnol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldonadeldallagnol/)][2]
 
-I'm a Software Engineer from Brazil 🇧🇷 working at @expo, where I'm focused on contributing to the React Native open-source ecosystem and helping make cross-platform development truly universal. Throughout my career, I've worked with multiple technologies using industry-standard patterns and architectures, helping lead medium-sized teams. 
- 
-I believe in the power of "Write Once, Run Everywhere," and I am committed to making this philosophy a practical reality for developers. I'm driven by a love for tinkering, bringing ideas to life, and creating innovative solutions that result in seamless experiences for users across all platforms and devices. Through dedication and open collaboration, we can continue to push the boundaries of what's possible with React Native.
+Software Engineer at @expo, based in Florianópolis, Brazil 🇧🇷. I work on the SDK team building libraries like expo-brownfield and [Expo Orbit](https://expo.dev/orbit). I'm also usually part of the React Native releases team, with a soft spot for react-native-macos.
 
-If you'd like to learn more about me and my work, you can visit my [website][1] or find me on [![LinkedIn][2.1]][2]. Let's work together to push the boundaries of what's possible with React Native! 
+Most of my work lives somewhere between JavaScript and the platform underneath it: native modules, code signing, build infrastructure, and the occasional dive into things like `lockdownd` or `itms-services://` that Apple would probably prefer nobody look at too closely.
+
+### Some things I've built
+
+- [**Entangle**](https://github.com/gabrieldonadel/entangle) — a free, open-source remote mouse/trackpad for macOS, controlled from your phone. LAN-only, no cloud, no accounts. Built with React Native macOS + Expo, partly to prove the desktop story works for real apps.
+
+### Off the keyboard
+
+I organize around the React Native meetups, train for long-distance triathlon, 3d printing, and reverse-engineer legacy hardware for fun — recent victims include Google Glass XE, Samsung Gear S3 and a Nespresso machine.
+
+If you'd like to learn more about me and my work, you can visit my [website][1] or find me on [![LinkedIn][2.1]][2].  
 
 <!-- Icons -->
 
