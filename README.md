@@ -13,7 +13,7 @@ Most of my work lives somewhere between JavaScript and the platform underneath i
 ### Some things I've built
 
 - [**Entangle**](https://github.com/gabrieldonadel/entangle) — a free, open-source remote mouse/trackpad for macOS, controlled from your phone. LAN-only, no cloud, no accounts. Built with React Native macOS + Expo, partly to prove the desktop story works for real apps.
-- [**Revu**](https://github.com/gabrieldonadel/revu) — a free, open-source macOS menu bar app for GitHub review requests. It tells you when someone asks for your review and runs an AI review on your own Claude Code or Codex login, reading the pull request through `gh` (nothing is cloned); you pick which comments get posted. Built with [exact2](https://github.com/ccheever/exact2), with every design decision kept as an LLP corpus in the repo.
+- [**Revu**](https://github.com/gabrieldonadel/revu) — a open-source macOS menu bar app for GitHub review requests. It tells you when someone asks for your review and runs an AI review on your own Claude Code or Codex login
 
 ### Off the keyboard
 
