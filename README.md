@@ -10,7 +10,7 @@ Software Engineer at @expo, based in Florianópolis, Brazil 🇧🇷. I work on 
 
 Most of my work lives somewhere between JavaScript and the platform underneath it: native modules, code signing, build infrastructure, and the occasional dive into things like `lockdownd` or `itms-services://` that Apple would probably prefer nobody look at too closely.
 
-### Some things I've built
+### Some other stuff I've built
 
 - [**Entangle**](https://github.com/gabrieldonadel/entangle) — a free, open-source remote mouse/trackpad for macOS, controlled from your phone. LAN-only, no cloud, no accounts. Built with React Native macOS + Expo, partly to prove the desktop story works for real apps.
 - [**Revu**](https://github.com/gabrieldonadel/revu) — a open-source macOS menu bar app for GitHub review requests. It tells you when someone asks for your review and runs an AI review on your own Claude Code or Codex login
